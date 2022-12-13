@@ -9,7 +9,7 @@ public class Test2 {
 		
 		int r= 20;
 		
-		System.out.println("print z"+z);
+		System.out.println(z+r);
 		
 		
 		
