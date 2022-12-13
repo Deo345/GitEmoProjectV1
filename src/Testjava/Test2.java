@@ -5,11 +5,11 @@ public class Test2 {
 	
 	public static void main(String[] args) {
 		
-		int i1 = 10;
+		int data1 = 10;
 		
-		int i2 = 20;
+		int data2 = 20;
 		
-		System.out.println(i1+i2);
+		System.out.println(data1+data2);
 		
 		
 		
